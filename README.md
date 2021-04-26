@@ -2,9 +2,9 @@
 
 🔴 Follow the below links to get the codes being taught in the session
 
-### Hepatitis Use Case: https://github.com/erickeagle/hepatitis
+#### Hepatitis Use Case: https://github.com/erickeagle/hepatitis
 
-### Time Series Forecasting: https://github.com/erickeagle/Time-series-forecasting
+#### Time Series Forecasting: https://github.com/erickeagle/Time-series-forecasting
 
 ## 🔴 What is Flask ?
 
