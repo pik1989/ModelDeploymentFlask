@@ -17,7 +17,7 @@
 ![image](https://user-images.githubusercontent.com/34673684/116027701-26b39b00-a688-11eb-8e92-df3433257ad5.png)
 
 
-## 🔴 Follow this video for the code walkthrough:
+## 🔴 Follow this video for the code walkthrough: (Click below)
 
 [![Alt text](https://raw.githubusercontent.com/pik1989/ModelDeploymentFlask/main/FlaskImage.JPG)](https://www.youtube.com/watch?v=FVn1kDtMCMc)
 
