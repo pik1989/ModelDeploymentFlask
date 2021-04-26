@@ -2,8 +2,8 @@
 
 🔴 Follow the below links to get the codes being taught in the session
 
-https://github.com/erickeagle/hepatitis
-https://github.com/erickeagle/Time-series-forecasting
+Hepatitis Use Case: https://github.com/erickeagle/hepatitis
+Time Series Forecasting: https://github.com/erickeagle/Time-series-forecasting
 
 
 🔴 Follow this video for the code walkthrough:
